@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SunnyWeather">
         <activity
-            android:name=".ui.place.weather.WeatherActivity"
+            android:name="com.ccg.sunnyweather.ui.weather.WeatherActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

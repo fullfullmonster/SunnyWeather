@@ -1,4 +1,4 @@
-package com.ccg.sunnyweather.ui.place.weather
+package com.ccg.sunnyweather.ui.place
 
 import android.content.Intent
 import android.os.Bundle
@@ -13,6 +13,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.ccg.sunnyweather.MainActivity
 import com.ccg.sunnyweather.R
+import com.ccg.sunnyweather.ui.weather.WeatherActivity
 import kotlinx.android.synthetic.main.fragment_place.*
 
 class PlaceFragment : Fragment() {

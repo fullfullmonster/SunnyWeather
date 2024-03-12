@@ -1,4 +1,4 @@
-package com.ccg.sunnyweather.ui.place.weather
+package com.ccg.sunnyweather.ui.weather
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Transformations

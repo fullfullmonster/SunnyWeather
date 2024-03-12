@@ -1,11 +1,10 @@
-package com.ccg.sunnyweather.ui.place.weather
+package com.ccg.sunnyweather.ui.weather
 
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
-import android.view.inputmethod.InputMethod
 import android.view.inputmethod.InputMethodManager
 import android.widget.ImageView
 import android.widget.TextView
