@@ -27,6 +27,7 @@ object SunnyWeatherNetwork {
 
 
 
+    //扩展函数
     private suspend fun <T> Call<T>.await(): T{
         return suspendCoroutine {
             enqueue(object : Callback<T>{
